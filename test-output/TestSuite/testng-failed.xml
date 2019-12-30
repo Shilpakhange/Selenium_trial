@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
+  <test thread-count="5" name="Paramtest(failed)">
+    <parameter name="password" value="test123"/>
+    <parameter name="emailID" value="hajare_shilpa@yahoo.com"/>
+    <parameter name="url" value="https://login.yahoo.com/config/login?"/>
+    <classes>
+      <class name="parameterTestng.ParameterTest">
+        <methods>
+          <include name="yahoologintest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- parameterTestng.ParameterTest -->
+    </classes>
+  </test> <!-- Paramtest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

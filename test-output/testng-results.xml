@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46332" started-at="2019-10-10T14:34:45 IST" finished-at="2019-10-10T14:35:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46332" started-at="2019-10-10T14:34:45 IST" finished-at="2019-10-10T14:35:31 IST">
+      <class name="com.Datadriventest.Redifftest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="setUp" is-config="true" duration-ms="16073" started-at="2019-10-10T14:34:45 IST" finished-at="2019-10-10T14:35:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="redifTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="redifTest" duration-ms="680" started-at="2019-10-10T14:35:01 IST" data-provider="gettestData" finished-at="2019-10-10T14:35:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashish khandge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cde@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ashish123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redifTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="tearDown" is-config="true" duration-ms="229" started-at="2019-10-10T14:35:02 IST" finished-at="2019-10-10T14:35:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="setUp" is-config="true" duration-ms="13483" started-at="2019-10-10T14:35:02 IST" finished-at="2019-10-10T14:35:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="redifTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="redifTest" duration-ms="670" started-at="2019-10-10T14:35:16 IST" data-provider="gettestData" finished-at="2019-10-10T14:35:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Parth khandge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pqr@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[parth123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redifTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="tearDown" is-config="true" duration-ms="74" started-at="2019-10-10T14:35:16 IST" finished-at="2019-10-10T14:35:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="setUp" is-config="true" duration-ms="13980" started-at="2019-10-10T14:35:17 IST" finished-at="2019-10-10T14:35:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="redifTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="redifTest" duration-ms="644" started-at="2019-10-10T14:35:30 IST" data-provider="gettestData" finished-at="2019-10-10T14:35:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom alter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tom123@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tom123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redifTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Datadriventest.Redifftest@5e57643e]" name="tearDown" is-config="true" duration-ms="66" started-at="2019-10-10T14:35:31 IST" finished-at="2019-10-10T14:35:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Datadriventest.Redifftest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
